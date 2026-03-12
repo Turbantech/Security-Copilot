@@ -89,7 +89,7 @@ Generate report
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/security-copilot.git
+git clone https://github.com/Turbantech/Security-Copilot.git
 cd security-copilot
 ```
 
@@ -132,6 +132,7 @@ SHODAN_API_KEY=your-key-here
 
 ### 5. Run the app
 ```bash
+
 streamlit run app.py
 ```
 
