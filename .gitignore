@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+mitre_cache.json
+security_copilot.log
+*.pyc
+*.pyo
+.vscode/
