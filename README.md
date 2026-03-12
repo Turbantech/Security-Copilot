@@ -6,7 +6,7 @@ A conversational AI security assistant that investigates IPs, URLs, file hashes,
 
 ## 🚀 Live Demo
 
-> **[Link to your Streamlit deployment here]**
+> https://security-copilot.streamlit.app/
 
 ---
 
