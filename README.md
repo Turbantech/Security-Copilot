@@ -73,13 +73,13 @@ User (Streamlit UI)
 
 ## 📋 Example Queries
 ```
-Check IP 45.155.205.233
-Is 104.16.249.249 a VPN or proxy?
+Check IP 192.0.0.1(Insert IP of your choice)
+Is this particular IP a VPN or proxy?(Insert IP of your choice)
 Scan this URL: http://example.com/malware.exe
-Check hash: 44d88612fea8a8f36de82e1278abb02f
-What is MITRE technique T1059?
-Show me persistence techniques
-Search MITRE for credential dumping
+Check hash: HASH(Insert Hash of your choice)
+Show me Persistence tehcniques?
+What is this MITRE technique (Add MITRE technique of your choice)?
+Search MITRE for various different techniques
 Generate report
 ```
 
