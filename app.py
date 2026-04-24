@@ -101,7 +101,7 @@ col1, col2 = st.columns([6, 1])
 with col1:
     st.markdown("*Ask me about any IP, URL, file hash, or MITRE ATT&CK technique.*")
 with col2:
-    st.link_button("📋 Guide", "https://github.com/YOUR_USERNAME/security-copilot#readme")
+    st.link_button("📋 Guide", "https://github.com/TurbanTech/security-copilot#readme")
 st.divider()
 
 # --- File Upload ---
