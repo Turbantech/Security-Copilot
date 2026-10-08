@@ -171,8 +171,6 @@ security-copilot/
 
 - API keys stored in environment variables only — never hardcoded
 - Rate limiting per session (5 req/min, 30 req/session max)
-- Input passed to APIs only — never executed
-- No user data stored or logged beyond session
 
 ---
 
